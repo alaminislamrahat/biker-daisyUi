@@ -1,0 +1,7 @@
+.font-poppins{
+    font-family: 'Poppins', sans-serif;
+}
+li{
+    display: inline-block;
+    margin-left: 10px;
+}
